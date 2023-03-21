@@ -22,7 +22,7 @@ public class TasksTest  extends BaseTest{
 
         WriteInElementById(driver, "task", "Test Selenium");
 
-        WriteInElementById(driver, "dueDate", "20/03/2023");
+        WriteInElementById(driver, "dueDate", "01/12/2023");
 
         ClickElementById(driver, "saveButton");
 
@@ -70,7 +70,7 @@ public class TasksTest  extends BaseTest{
 
         WriteInElementById(driver, "task", "Test Selenium");
 
-        WriteInElementById(driver, "dueDate", "20/03/2023");
+        WriteInElementById(driver, "dueDate", "01/12/2023");
 
         ClickElementById(driver, "saveButton");
 
